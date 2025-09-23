@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Gen AI+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Gen+AI+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
