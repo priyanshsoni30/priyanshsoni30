@@ -25,6 +25,9 @@
 ### Programming & Development
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,react,flask,fastapi,hibernate" />
 
+### Frameworks
+<img src="https://skillicons.dev/icons?i=" />
+
 ### Database & Storage
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
