@@ -54,7 +54,7 @@
 <div align="center">
 
 [![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshsoni30&show_icons=true)](https://github.com/priyanshsoni30/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsoni30&layout=compact)](https://github.com/priyanshsoni30/github-readme-stats&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsoni30&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
 
 
 <br/><br/>
