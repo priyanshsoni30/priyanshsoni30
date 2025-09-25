@@ -49,8 +49,6 @@
 
 ---
 
-<!-- [![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshsoni30&show_icons=true)](https://github.com/priyanshsoni30/github-readme-stats) --!>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -68,3 +66,5 @@
 **🌟 Thanks for visiting! Let's build something amazing together! 🌟**
 
 </div>
+
+<!-- [![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshsoni30&show_icons=true)](https://github.com/priyanshsoni30/github-readme-stats) --!>
