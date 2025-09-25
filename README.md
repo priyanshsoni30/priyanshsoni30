@@ -55,7 +55,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsoni30&layout=compact)]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsoni30&layout=compact">
 
 <br/><br/>
 
