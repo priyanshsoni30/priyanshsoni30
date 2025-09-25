@@ -49,11 +49,12 @@
 
 ---
 
+<!-- [![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshsoni30&show_icons=true)](https://github.com/priyanshsoni30/github-readme-stats) --!>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- [![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshsoni30&show_icons=true)](https://github.com/priyanshsoni30/github-readme-stats) --!>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsoni30&layout=compact)](https://github.com/priyanshsoni30/github-readme-stats&layout=compact)
 
 <br/><br/>
