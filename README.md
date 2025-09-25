@@ -55,7 +55,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsoni30&layout=compact)](https://github.com/priyanshsoni30/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsoni30&layout=compact)]
 
 <br/><br/>
 
